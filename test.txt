@@ -1,4 +1,3 @@
 one
 two
-three
-some changes
+go
